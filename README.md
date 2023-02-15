@@ -1,1 +1,2 @@
 init
+autorization_component
