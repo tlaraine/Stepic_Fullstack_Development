@@ -3,3 +3,4 @@ autorization_component
 registration branch
 authorization component
 authorization component true
+test_checkout
