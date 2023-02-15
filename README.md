@@ -1,4 +1,4 @@
 init
 autorization_component
 registration branch
-
+authorization component true
