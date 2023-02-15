@@ -1,2 +1,4 @@
 init
+autorization_component
 registration branch
+
